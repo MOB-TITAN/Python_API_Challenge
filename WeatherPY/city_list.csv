@@ -1,4 +1,4 @@
-City ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+City ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,MaxTemp,WindSpeed
 0,jurm,3,AF,1601793443,23,36.86,70.83,291.92,2.89
 1,maliq,67,AL,1601793849,41,40.71,20.7,295.43,3.86
 2,shengjin,20,AL,1601793849,57,41.81,19.59,300.15,3.6
